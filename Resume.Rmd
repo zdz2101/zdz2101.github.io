@@ -4,13 +4,12 @@ title: "Resume"
 
 ##Education
 
-Columbia University Mailman School of Public Health\
+**Columbia University Mailman School of Public Health**\
+*MS Candidate in Biostatistics*
 
-MS Candidate in Biostatistics\
-
-University of California Los Angeles\
-BS in Statistics\
-Minor in Mathematics
+**University of California Los Angeles**\
+*BS in Statistics*\
+*Minor in Mathematics*
 
 ##Work Experience
 
@@ -43,7 +42,7 @@ Recruit a sponsorship committee to reach our $25,000 goal and lead marketing cam
 Virtually teach rural Cambodian students English phonics
 
 ##Technical Skills
-Programming:
+**Programming:**
 
 - R
 - Python
@@ -51,7 +50,7 @@ Programming:
 - Shell
 - Octave
 
-Software:
+**Software:**
 
 - MySQL
 - Tableau
