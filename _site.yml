@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Dashboard Ex"
+      href: p8105_hw4_zdz2101_flexdashboard.html
     - text: "Resume"
       href: Resume.html
     - icon: fa-envelope fa-lg
