@@ -1,0 +1,15 @@
+---
+title: "Welcome to Zelos Zhu's Website!"
+---
+
+###Welcome
+
+<img src="Images/pic_of_me.jpg" style="width:25%">
+
+This is me, my name is Zelos Zhu.\
+I am currently a MS candidate in biostatistics at Columbia University.\
+I grew up in San Francisco and went to college at UCLA.\
+In my spare time, I like to swim and watch movies.\
+I also LOVE baseball and basketball, you could catch me rooting for the Giants and Warriors any day of the year.\\
+
+Welcome and thank you for visiting my new webpage!

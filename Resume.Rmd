@@ -1,0 +1,55 @@
+---
+title: "Resume"
+---
+
+###Education
+2018 - 2020, Columbia University Mailman School of Public Health
+M.S. Candidate in Biostatistics
+2013 - 2017, University of California, Los Angeles
+B.S. in Statistics, GPA 3.4
+Minor in Mathematics
+
+###Work Experience
+June 2017 - July 2018
+Research Assistant, UCSF Carol Franc Buck Breast Care Center
+-Investigate molecular signatures of "ultra-low" risk patients that are
+associated indolent behavior of invasive breast cancers
+-Analyze gene expression data to determine predictive biomarkers of
+response in patients who recevied pembrolizumab
+-Studied the molecular subtypes of invasive lobular carcinoma in locally
+advanced patients
+July 2016 - May 2017
+Clinical Analyst, Doctor Evidence
+-Read, analyze, and extract data and information including patient
+characteristics and outcomes from scientific clinical research publications
+into a digital template
+-Read and review meta-analyses, systematic reviews and summary
+papers on disease states, research methods or biostatistics
+January 2017 - June 2017
+Data Analyst Intern, SCAN Health Plan - Marketing Division
+-Conduct survey analysis to determine factors that affect customer
+Net Promoter Score
+-Assist in the development of speech analytics program to categorize
+customer service phone calls
+
+###Activities
+UCLA Statistics Club DataFest Chairman
+Recruit a sponsorship committee to reach our $25,000 goal and lead marketing
+campaign to promote ASA Datafest 2017
+TASSEL at UCLA, Founder and Executive Director
+Virtually teach rural Cambodian students English phonics
+
+###Technical Skills
+Programming:
+-R
+-Python
+-C++
+-Shell
+-Octave
+
+Software:
+-MySQL
+-Tableau
+-Microsoft Offices
+-Slack 
+-SalesForce
