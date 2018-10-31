@@ -11,5 +11,5 @@ navbar:
       href: http://github.com/zdz2101/
 output:
   html_document:
-  theme: flatly
+  theme: cosmo
   css: style.css
