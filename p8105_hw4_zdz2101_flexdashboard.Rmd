@@ -1,0 +1,104 @@
+---
+title: "p8105_hw4_zdz2101"
+author: "Zelos Zhu"
+date: "10/31/2018"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+```{r, message = FALSE}
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+library(plotly)
+library(flexdashboard)
+library(lubridate)
+```
+
+```{r, include = FALSE}
+ny_noaa_0910 <- ny_noaa %>%
+  filter(date >= "2009-01-01") %>%
+   mutate(prcp = prcp/100,
+          snow = snow/10,
+          snwd = snwd/10,
+          tmax = as.numeric(tmax)/10,
+          tmin = as.numeric(tmin)/10,
+          year = year(date),
+          month = month(date),
+          day = weekdays(date))
+```
+
+Column {data-height=550}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r, warning = FALSE}
+ny_noaa_high_lows <- ny_noaa %>%
+   mutate(prcp = prcp/100,
+          snow = snow/10,
+          snwd = snwd/10,
+          tmax = as.numeric(tmax)/10,
+          tmin = as.numeric(tmin)/10,
+          year = year(date),
+          month = month(date),
+          day = weekdays(date)) %>%
+  filter(date >= "2000-01-01") %>%
+  group_by(year, month) %>%
+  summarize(max_temp = max(tmax, na.rm = TRUE),
+            min_temp = min(tmin, na.rm =TRUE)) %>%
+  gather(max_min, temp, 3:4) %>%
+  mutate(text_label = str_c("Year:", year),
+         month = factor(month)) %>%
+  plot_ly(x = ~month, y = ~temp, color = ~factor(year), type = "scatter", mode = "lines", linetype = ~max_min, text = ~text_label) %>%
+  layout(
+    title = "Temperature Maximum and Minimums by Month since 2000",
+    yaxis = list(title = "Temperature (Celsius)"),
+    xaxis = list(title = "Month")
+    )
+
+ny_noaa_high_lows
+
+```
+
+Column {data-width=450}
+-----------------------------------------------------------------------
+
+
+### Chart B
+
+```{r, warning = FALSE}
+ny_noaa_violin <- ny_noaa_0910 %>%
+  plot_ly(x = ~as.factor(month), y = ~log(prcp, 10), 
+          type = 'violin',
+          box = list(visible = TRUE),
+          color = ~as.factor(month)) %>%
+  layout(
+    title = "Precipitation by Month from 2009-2010",
+    xaxis = list(title = "Month"),
+    yaxis = list(title = "Log of Precipitation in cm")
+    )
+
+ny_noaa_violin
+```
+
+
+### Chart C
+
+```{r, warning = FALSE}
+ny_noaa_scatter <- ny_noaa_0910 %>% 
+  filter(date >= "2009-11-01" & date < "2010-04-01") %>%
+  mutate(text_label = str_c("Date:",as.character(date),"\nSnowdepth:", snwd, "cm")) %>%
+  plot_ly(x = ~tmax, y = ~snow, type = "scatter", mode = "markers",
+          alpha = 0.5, 
+          color = ~factor(month, levels = c("11","12","1","2","3")),
+          text = ~text_label) %>%
+  layout(
+    title = "Measure of Snow against Temperature from 11/2009 to 04/2010",
+    xaxis = list(title = "Maximum Temperature (Celsius)"),
+    yaxis = list(title = "Snowfall (cm)")
+    )
+
+ny_noaa_scatter
+```
