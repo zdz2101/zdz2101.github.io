@@ -18,5 +18,5 @@ Welcome and thank you for visiting my new webpage!\
 #####October 20, 2018
 <img src="Images/half_marathon.jpg" style="width:25%"> <img src="Images/hiding_the_pain.jpg" style="width:25%">
 
-This is me struggling to finish my half-marathon just a few weeks ago (left).\
+This is me struggling to finish my half-marathon just a few months ago (left).\
 This is me hiding the pain in my knees for what would become my instagram post (right).
