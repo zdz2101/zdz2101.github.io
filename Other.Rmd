@@ -1,0 +1,7 @@
+---
+title: "Recent Works"
+---
+
+### Fall 2018 Projects
+- P8105 Data Science Final Project: [[Link]](https://nevilleq.github.io/p8105_fp_qzal/)
+- P8130 Biostatistical Methods Final Report: [[Link]](https://github.com/alyssamv/p8130_final_proj/blob/master/Report_Group3.pdf)

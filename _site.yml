@@ -7,8 +7,10 @@ navbar:
       href: ./Docs/zzhu_resume.pdf
     - text: "Papers"
       href: Resume.html
-    - text: "Capstone Project"
+    - text: "UCLA Capstone Project"
       href: ./Docs/stat141report.pdf
+    - text: "Recent Projects"
+      href: Other.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<zdz2101@cumc.columbia.edu>
