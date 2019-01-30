@@ -2,11 +2,12 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
-    - text: "Dashboard Ex"
-      href: p8105_hw4_zdz2101_flexdashboard.html
+  left:
     - text: "Resume"
+      href: ./Docs/zzhu_resume.pdf
+    - text: "Papers"
       href: Resume.html
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<zdz2101@cumc.columbia.edu>
     - icon: fa-github fa-lg

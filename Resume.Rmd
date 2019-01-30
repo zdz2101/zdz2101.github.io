@@ -1,59 +1,24 @@
 ---
-title: "Resume"
+title: "Publications"
 ---
 
-##Education
+<link rel="stylesheet" href="academicons.css"/>
+<br><br>
 
-**Columbia University Mailman School of Public Health**, Class of 2020\
-*MS Candidate in Biostatistics*
+### Publications
 
-**University of California Los Angeles**, Class of 2017\
-*BS in Statistics*\
-*Minor in Mathematics*
+Mukhtar, R.A., Wong, J., Piper, M., **Zhu, Z.**, Fahrner-Scott, K., Mamounas, M., Sbitany, H., Alvarado, M., Foster, R., Ewing, C., Esserman, L. Ann Surg Oncol (2018) 25: 3165.[[Link]](https://doi.org/10.1245/s10434-018-6682-4)
 
-##Work Experience
+Campbell, M. J., Baehner, F., O'Meara, T., Ojukwu, E., Han, B., Mukhtar, R., Tandon, V., Endicott, M., **Zhu, Z.**, Wong, J., Krings, G., Au, A., Gray, J., Esserman, L. (2016). Characterizing the immune microenvironment in high-risk ductal carcinoma in situ of the breast. Breast cancer research and treatment, 161(1), 17-28. [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5225037/pdf/nihms825888.pdf)
 
-*June 2017 - July 2018*\
-**Research Assistant, UCSF Carol Franc Buck Breast Care Center**
+### Posters
 
-- Investigate molecular signatures of "ultra-low" risk patients that are associated indolent behavior of invasive breast cancers
-- Analyze gene expression data to determine predictive biomarkers of response in patients who recevied pembrolizumab
-- Studied the molecular subtypes of invasive lobular carcinoma in locally advanced patients
+**Zhu, Z.**, Yau, C., Van’t Veer, L., Esserman, L.J., Mukhtar, R.A., on behalf of the I-SPY 2 TRIAL Consortium. (2018) Molecular subtypes of invasive lobular breast cancer in the I-SPY2 Trial. San Antonio Breast Cancer Symposium. San Antonio, TX, USA. *Not available for public*
 
-*July 2016 - May 2017*\
-**Clinical Analyst, Doctor Evidence**
+Lee, P., **Zhu, Z.**, Wolf, D., Yau, C., Audeh, W., Glas, A., Brown-Swigart, L., Hirst, G., DeMichele, A., I-SPY 2 TRIAL Investigators, Esserman, L., and Van 't Veer, L. (2018) BluePrint Luminal subtype predicts non-response to HER2-targeted therapies in HR+/HER2+ I-SPY 2 breast cancer patients. AACR Annual Meeting 2018. Chicago, IL, USA [[Link]](http://cancerres.aacrjournals.org/content/78/13_Supplement/2612)
 
-- Read, analyze, and extract data and information including patient characteristics and outcomes from scientific clinical research publications into a digital template
-- Read and review meta-analyses, systematic reviews and summary papers on disease states, research methods or biostatistics
+Wong, J., Piper, M., **Zhu, Z.**, Farhner-Scott, K., Mamounas, M., Ewing, C., Alvardo, M., Esserman, L., Sbitany, H., Foster, R., Mukhtar, R.. (2017) Tailoring surgical therapy to reduce positive margins in invasive lobular carcinoma of the breast. San Antonio Breast Cancer Symposium. San Antonio, TX, USA. [[Link]](http://sabcs17.posterview.com/nosl/i/P2-12-16)
 
-*January 2017 - June 2017*\
-**Data Analyst Intern, SCAN Health Plan - Marketing Division**
+Campbell, M., Yau, C., Wolf, D., **Zhu, Z.**, Hoyt, C., Borowsky, A., Vandenberg, S., Rim, D., Nanda, R., Liu, M., Brown-Swigart, L., Hirst, G., Asare, S., Van’t Veer, L., Yee, D., DeMichele, A., Berry, D., Esserman, L., I SPY 2 TRIAL Investigators. (2017) Analysis of immune gene expression signatures as predictors of response to the checkpoint inhibitor pembrolizumab in the neoadjuvant I-SPY 2 TRIAL. San Antonio Breast Cancer Symposium. San Antonio, TX, USA. [[Link]](http://sabcs17.posterview.com/nosl/i/PD6-08)
 
-- Conduct survey analysis to determine factors that affect customer Net Promoter Score
-- Assist in the development of speech analytics program to categorize customer service phone calls
-
-##Activities
-**UCLA Statistics Club DataFest Chairman**
-
-Recruit a sponsorship committee to reach our $25,000 goal and lead marketing campaign to promote ASA Datafest 2017
-
-**TASSEL at UCLA, Founder and Executive Director**
-
-Virtually teach rural Cambodian students English phonics
-
-##Technical Skills
-**Programming:**
-
-- R
-- Python
-- C++
-- Shell
-- Octave
-
-**Software:**
-
-- MySQL
-- Tableau
-- Microsoft Offices
-- Slack 
-- SalesForce
+Hosseini, A., Hsu, D., **Zhu, Z.**, Esserman, L., Wallace, A., Au, A., Mukhtar, R.. (2017) Breast tumor location ingene mutation carriers and implications for prevention. San Antonio Breast Cancer symposium. San Antonio, TX, USA.[[Link]](http://sabcs17.posterview.com/nosl/i/P5-22-22)
