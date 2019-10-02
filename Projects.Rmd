@@ -1,6 +1,14 @@
 ---
 title: "Recent Projects"
+output:
+  html_document: 
+    toc: true
+    toc_float: true
 ---
+
+### Fall 2019 Projects
+- Sample size and Power calculator for single arm proof of concept studies (in progress)
+- How to find design parameters for a bayesian single arm proof of concept study (in progress)
 
 ### Summer 2019 Projects
 - Developing R Package to implement parallel processing to conduct permutation test in neuroimaging data: [[Link]](https://zeloszhu.com/parPerm)
