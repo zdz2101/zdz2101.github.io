@@ -1,0 +1,26 @@
+---
+title: "Publications"
+---
+
+<link rel="stylesheet" href="academicons.css"/>
+<br><br>
+
+### Publications
+
+Mukhtar, R.A., Wong, J., Piper, M., **Zhu, Z.**, Fahrner-Scott, K., Mamounas, M., Sbitany, H., Alvarado, M., Foster, R., Ewing, C., Esserman, L. Ann Surg Oncol (2018) 25: 3165.[[Link]](https://doi.org/10.1245/s10434-018-6682-4)
+
+Campbell, M. J., Baehner, F., O'Meara, T., Ojukwu, E., Han, B., Mukhtar, R., Tandon, V., Endicott, M., **Zhu, Z.**, Wong, J., Krings, G., Au, A., Gray, J., Esserman, L. (2016). Characterizing the immune microenvironment in high-risk ductal carcinoma in situ of the breast. Breast cancer research and treatment, 161(1), 17-28. [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5225037/pdf/nihms825888.pdf)
+
+### Posters
+
+**Zhu, Z.**, Yau, C., Van’t Veer, L., Esserman, L.J., Mukhtar, R.A., on behalf of the I-SPY 2 TRIAL Consortium. (2018) Molecular subtypes of invasive lobular breast cancer in the I-SPY2 Trial. San Antonio Breast Cancer Symposium. San Antonio, TX, USA. [[Link]](http://sabcs18.posterview.com/nosl/i/PD7-06)
+
+**Zhu, Z.**, Lee, P., Wolf, D., Yau, C., Audeh, W., Glas, A., Brown-Swigart, L., Hirst, G., DeMichele, A., I-SPY 2 TRIAL Investigators, Esserman, L., and Van 't Veer, L. (2018) BluePrint Luminal subtype predicts non-response to HER2-targeted therapies in HR+/HER2+ I-SPY 2 breast cancer patients. *Best Poster*. UCSF Breast Oncology Program Scientific Retreat. San Francisco, USA [[Link]](http://cancer.ucsf.edu/_docs/2018_BOP_Retreat_Poster_Abstracts.pdf)
+
+Lee, P., **Zhu, Z.**, Wolf, D., Yau, C., Audeh, W., Glas, A., Brown-Swigart, L., Hirst, G., DeMichele, A., I-SPY 2 TRIAL Investigators, Esserman, L., and Van 't Veer, L. (2018) BluePrint Luminal subtype predicts non-response to HER2-targeted therapies in HR+/HER2+ I-SPY 2 breast cancer patients. AACR Annual Meeting 2018. Chicago, IL, USA [[Link]](http://cancerres.aacrjournals.org/content/78/13_Supplement/2612)
+
+Wong, J., Piper, M., **Zhu, Z.**, Farhner-Scott, K., Mamounas, M., Ewing, C., Alvardo, M., Esserman, L., Sbitany, H., Foster, R., Mukhtar, R.. (2017) Tailoring surgical therapy to reduce positive margins in invasive lobular carcinoma of the breast. San Antonio Breast Cancer Symposium. San Antonio, TX, USA. [[Link]](http://sabcs17.posterview.com/nosl/i/P2-12-16)
+
+Campbell, M., Yau, C., Wolf, D., **Zhu, Z.**, Hoyt, C., Borowsky, A., Vandenberg, S., Rim, D., Nanda, R., Liu, M., Brown-Swigart, L., Hirst, G., Asare, S., Van’t Veer, L., Yee, D., DeMichele, A., Berry, D., Esserman, L., I SPY 2 TRIAL Investigators. (2017) Analysis of immune gene expression signatures as predictors of response to the checkpoint inhibitor pembrolizumab in the neoadjuvant I-SPY 2 TRIAL. San Antonio Breast Cancer Symposium. San Antonio, TX, USA. [[Link]](http://sabcs17.posterview.com/nosl/i/PD6-08)
+
+Hosseini, A., Hsu, D., **Zhu, Z.**, Esserman, L., Wallace, A., Au, A., Mukhtar, R.. (2017) Breast tumor location ingene mutation carriers and implications for prevention. San Antonio Breast Cancer symposium. San Antonio, TX, USA.[[Link]](http://sabcs17.posterview.com/nosl/i/P5-22-22)

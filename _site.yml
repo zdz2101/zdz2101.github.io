@@ -6,7 +6,7 @@ navbar:
     - text: "Resume"
       href: ./Docs/Zelos_Zhu_Resume.pdf
     - text: "Papers"
-      href: Resume.html
+      href: Papers.html
     - text: "UCLA Capstone Project"
       href: ./Docs/stat141report.pdf
     - text: "Recent Projects"
