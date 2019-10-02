@@ -1,0 +1,26 @@
+---
+title: "Recent Works"
+---
+
+### Summer 2019 Projects
+- Developing R Package to implement parallel processing to conduct permutation test in neuroimaging data: [[Link]](https://zeloszhu.com/parPerm)
+- Neural network to assess quantification of breast MRI fibroglandular tissue (FGT) and background
+parenchymal enhancement: (Not publicly availabled)
+
+### Spring 2019 Projects
+- Multiple Comparisons Methods Simulation: [[Link]](./Docs/group1_report.pdf)
+- Hand-Built Newton Raphson LASSO Model on breast cancer data: [[Link]](./Docs/Computing_Group_Project2 (2).pdf)
+- Comparing Hand-Built and Built-In R LASSO in predicting down syndrome of mice: [[Link]](./Docs/Computing_Group_Project3.pdf)
+
+### Fall 2018 Projects
+- P8105 Data Science Final Project: [[Link]](https://nevilleq.github.io/p8105_fp_qzal/)
+- P8130 Biostatistical Methods Final Report: [[Link]](https://github.com/alyssamv/p8130_final_proj/blob/master/Report_Group3.pdf)
+
+### UCSF Projects
+- Molecular subtypes of invasive lobular breast cancer in the I-SPY2 Trial: [[Link]](http://sabcs18.posterview.com/nosl/i/PD7-06)
+
+<script async class="speakerdeck-embed" data-id="12bd7436b1004028af449e20fa7b4444" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+### 2017 and earlier Projects
+- UCLA Capstone Project: [[Link]](./Docs/stat141report.pdf)
+- Simulation of most landed spots of Monopoly: [[Link]](https://github.com/zdz2101/Monopoly-/blob/master/Monopoly.md)
