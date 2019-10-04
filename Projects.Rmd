@@ -6,8 +6,13 @@ output:
     toc_float: true
 ---
 
+### Links to the packages currently in development
+- [[parPerm]](https://zeloszhu.com/parPerm)
+- [[ParamCalc]](https://zeloszhu.com/ParamCalc)
+
+
 ### Fall 2019 Projects
-- Sample size and Power calculator for single arm proof of concept studies (in progress)
+- Sample size calculator for single arm proof of concept studies (in progress)
 - How to find design parameters for a bayesian single arm proof of concept study (in progress)
 
 ### Summer 2019 Projects
