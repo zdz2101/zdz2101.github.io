@@ -1,22 +1,7 @@
 ---
 title: "Welcome to Zelos Zhu's Website!"
 ---
-<img src="Images/pic_of_me.jpg" style="width:25%">
+<br><center><img img src="Images/pic_of_me.jpg" alt="logo" style="width:45%; border:10px solid"><br>
 
-This is me, my name is Zelos Zhu.\
-I am currently a MS candidate in biostatistics at Columbia University.\
-I grew up in San Francisco and went to college at UCLA.\
-In my spare time, I like to swim and watch movies.\
-I also LOVE baseball and basketball, you could catch me rooting for the Giants and Warriors any day of the year.
+Hello! I am currently a biostatistics M.S. candidate at Columbia University Mailman School of Public Health and a research assistant in the Department of Mental Health Data Science at the New York State Psychiatric Institute. I grew up in San Francisco and went to college at UCLA, majoring in statistics and minoring in mathematics. In my spare time, I like to swim and watch movies. I also LOVE baseball and basketball, you could catch me rooting for the Giants and Warriors any day of the year. Welcome and thank you for visiting!
 
-Welcome and thank you for visiting my new webpage!\
-\
-
-
-###Some lovely photos
-
-#####October 20, 2018
-<img src="Images/half_marathon.jpg" style="width:25%"> <img src="Images/hiding_the_pain.jpg" style="width:25%">
-
-This is me struggling to finish my half-marathon just a few months ago (left).\
-This is me hiding the pain in my knees for what would become my instagram post (right).

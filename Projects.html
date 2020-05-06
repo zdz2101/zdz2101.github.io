@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -88,7 +88,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -237,6 +236,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -249,48 +249,9 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -304,6 +265,12 @@ $(document).ready(function ()  {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -441,21 +408,20 @@ div.tocify {
 <h3>Links to the packages currently in development</h3>
 <ul>
 <li><a href="https://zeloszhu.com/parPerm">[parPerm]</a></li>
-<li><a href="https://zeloszhu.com/ParamCalc">[ParamCalc]</a></li>
 </ul>
 </div>
-<div id="fall-2019-projects" class="section level3">
-<h3>Fall 2019 Projects</h3>
+<div id="current-projects" class="section level3">
+<h3>Current Projects</h3>
 <ul>
-<li>Sample size calculator for single arm proof of concept studies (in progress)</li>
-<li>How to find design parameters for a bayesian single arm proof of concept study (in progress)</li>
+<li>Building R Shiny implementing the parPerm package in a user friendly way: (In progress)</li>
+<li>R Shiny Web App showing residential housing that may have been involved with illegal construction in San Francisco: <a href="https://zeloszhu.shinyapps.io/sf_permits_illegalhomes/">[Link]</a></li>
 </ul>
 </div>
 <div id="summer-2019-projects" class="section level3">
 <h3>Summer 2019 Projects</h3>
 <ul>
 <li>Developing R Package to implement parallel processing to conduct permutation test in neuroimaging data: <a href="https://zeloszhu.com/parPerm">[Link]</a></li>
-<li>Neural network to assess quantification of breast MRI fibroglandular tissue (FGT) and background parenchymal enhancement: (Not publicly availabled)</li>
+<li>Neural network to assess quantification of breast MRI fibroglandular tissue (FGT) and background parenchymal enhancement: (Not publicly available)</li>
 </ul>
 </div>
 <div id="spring-2019-projects" class="section level3">
@@ -506,6 +472,49 @@ $(document).ready(function () {
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
