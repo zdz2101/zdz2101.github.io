@@ -10,6 +10,8 @@ navbar:
     - text: "Recent Projects"
       href: Projects.html
   right:
+    - text: "Personal Blog"
+      href: blogposts.html
     - icon: fa-envelope fa-lg
       href: mailto:<zdz2101@cumc.columbia.edu>
     - icon: fa-github fa-lg

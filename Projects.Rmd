@@ -10,8 +10,8 @@ output:
 - [[parPerm]](https://zeloszhu.com/parPerm)
 
 ### Current Projects
-- Building R Shiny implementing the parPerm package in a user friendly way: (In progress)
-- R Shiny Web App showing residential housing that may have been involved with illegal construction in San Francisco: [[Link]](https://zeloszhu.shinyapps.io/sf_permits_illegalhomes/)
+- Building R Shiny app implementing the parPerm package in a user friendly way: (In progress)
+- R Shiny app showing residential housing that may have been involved with illegal construction in San Francisco: [[Link]](https://zeloszhu.shinyapps.io/sf_permits_illegalhomes/)
 
 ### Summer 2019 Projects
 - Developing R Package to implement parallel processing to conduct permutation test in neuroimaging data: [[Link]](https://zeloszhu.com/parPerm)
