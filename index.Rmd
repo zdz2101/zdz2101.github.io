@@ -3,5 +3,5 @@ title: "Welcome to Zelos Zhu's Website!"
 ---
 <br><center><img img src="Images/pic_of_me.jpg" alt="logo" style="width:45%; border:10px solid"><br>
 
-Hello! I am currently a clinical data scientist for Boehringer-Ingelheim. In my spare time, I like to swim and watch movies. I also LOVE baseball and basketball, you could catch me rooting for the Giants and Warriors any day of the year. Welcome and thank you for visiting!
+Hello! I am currently a Clinical Data Scientist at Boehringer-Ingelheim, primarily working as the lead programmer for early phase oncology trials. I grew up in San Francisco, received my Statistics B.S. from UCLA and my Biostatistics M.S. from Columbia University. In my spare time, I like to swim and watch movies. I also LOVE baseball and basketball, you could catch me rooting for the Giants and Warriors any day of the year. Welcome and thank you for visiting!
 
