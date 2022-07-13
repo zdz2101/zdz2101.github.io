@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   left:
     - text: "Resume"
-      href: ./Docs/Zelos_Zhu_Resume.pdf
+      href: ./Docs/Resume.pdf
     - text: "Papers"
       href: Papers.html
     - text: "Recent Projects"
